@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://horecatek.ru/index.html</loc>
+    <lastmod>2026-10-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://horecatek.ru/articles.html</loc>
+    <lastmod>2026-10-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- Боль и деньги -->
+  <url><loc>https://horecatek.ru/articles/svoi-sait-dostavki-vs-agregatory.html</loc><lastmod>2026-10-03</lastmod><priority>0.8</priority></url>
+  <url><loc>https://horecatek.ru/articles/foodcost-v-kafe.html</loc><lastmod>2026-10-03</lastmod><priority>0.8</priority></url>
+  <url><loc>https://horecatek.ru/articles/vorovstvo-na-sklade.html</loc><lastmod>2026-10-03</lastmod><priority>0.8</priority></url>
+  <url><loc>https://horecatek.ru/articles/skolko-stoit-avtomatizatsiya.html</loc><lastmod>2026-10-03</lastmod><priority>0.8</priority></url>
+  <url><loc>https://horecatek.ru/articles/7-utechek-deneg-v-kafe.html</loc><lastmod>2026-10-03</lastmod><priority>0.8</priority></url>
+
+  <!-- Выбор системы -->
+  <url><loc>https://horecatek.ru/articles/iiko-ili-rkeeper.html</loc><lastmod>2026-10-03</lastmod><priority>0.8</priority></url>
+  <url><loc>https://horecatek.ru/articles/kakuyu-programmu-vybrat-dlya-kafe.html</loc><lastmod>2026-10-03</lastmod><priority>0.8</priority></url>
+  <url><loc>https://horecatek.ru/articles/oblachnaya-kassa-dlya-kafe.html</loc><lastmod>2026-10-03</lastmod><priority>0.8</priority></url>
+  <url><loc>https://horecatek.ru/articles/programma-dlya-kofeini.html</loc><lastmod>2026-10-03</lastmod><priority>0.8</priority></url>
+  <url><loc>https://horecatek.ru/articles/avtomatizatsiya-dlya-sushi.html</loc><lastmod>2026-10-03</lastmod><priority>0.8</priority></url>
+  <url><loc>https://horecatek.ru/articles/avtomatizatsiya-dlya-bara.html</loc><lastmod>2026-10-03</lastmod><priority>0.8</priority></url>
+  <url><loc>https://horecatek.ru/articles/uhod-s-iiko-i-rkeeper.html</loc><lastmod>2026-10-03</lastmod><priority>0.8</priority></url>
+
+  <!-- Конкретные функции -->
+  <url><loc>https://horecatek.ru/articles/kak-izbavitsya-ot-ocheredei.html</loc><lastmod>2026-10-03</lastmod><priority>0.8</priority></url>
+  <url><loc>https://horecatek.ru/articles/uchet-produktov-v-kafe.html</loc><lastmod>2026-10-03</lastmod><priority>0.8</priority></url>
+  <url><loc>https://horecatek.ru/articles/inventarizatsiya-za-30-minut.html</loc><lastmod>2026-10-03</lastmod><priority>0.8</priority></url>
+  <url><loc>https://horecatek.ru/articles/programma-loyalnosti-dlya-kafe.html</loc><lastmod>2026-10-03</lastmod><priority>0.8</priority></url>
+  <url><loc>https://horecatek.ru/articles/onlain-menyu-i-qr-kody.html</loc><lastmod>2026-10-03</lastmod><priority>0.8</priority></url>
+  <url><loc>https://horecatek.ru/articles/avtomatizatsiya-dostavki.html</loc><lastmod>2026-10-03</lastmod><priority>0.8</priority></url>
+  <url><loc>https://horecatek.ru/articles/kds-kuhonnyi-displei.html</loc><lastmod>2026-10-03</lastmod><priority>0.8</priority></url>
+
+  <!-- Открытие и запуск -->
+  <url><loc>https://horecatek.ru/articles/kak-otkryt-kafe-s-nulya.html</loc><lastmod>2026-10-03</lastmod><priority>0.8</priority></url>
+  <url><loc>https://horecatek.ru/articles/otkrytie-ip-dlya-kafe.html</loc><lastmod>2026-10-03</lastmod><priority>0.8</priority></url>
+  <url><loc>https://horecatek.ru/articles/otkrytie-kofeini-s-nulya.html</loc><lastmod>2026-10-03</lastmod><priority>0.8</priority></url>
+  <url><loc>https://horecatek.ru/articles/otkrytie-dostavki-edy.html</loc><lastmod>2026-10-03</lastmod><priority>0.8</priority></url>
+
+  <!-- Внедрение и процессы -->
+  <url><loc>https://horecatek.ru/articles/vnedrenie-bez-bunta.html</loc><lastmod>2026-10-03</lastmod><priority>0.8</priority></url>
+  <url><loc>https://horecatek.ru/articles/upravlenie-setyu-kafe.html</loc><lastmod>2026-10-03</lastmod><priority>0.8</priority></url>
+  <url><loc>https://horecatek.ru/articles/proverki-54fz-egais-markirovka.html</loc><lastmod>2026-10-03</lastmod><priority>0.8</priority></url>
+  <url><loc>https://horecatek.ru/articles/kogda-pora-menyat-kassu.html</loc><lastmod>2026-10-03</lastmod><priority>0.8</priority></url>
+
+  <!-- По типам бизнеса -->
+  <url><loc>https://horecatek.ru/articles/avtomatizatsiya-restorana.html</loc><lastmod>2026-10-03</lastmod><priority>0.8</priority></url>
+  <url><loc>https://horecatek.ru/articles/avtomatizatsiya-kafe.html</loc><lastmod>2026-10-03</lastmod><priority>0.8</priority></url>
+  <url><loc>https://horecatek.ru/articles/avtomatizatsiya-fudkorta.html</loc><lastmod>2026-10-03</lastmod><priority>0.8</priority></url>
+</urlset>
